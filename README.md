@@ -5,28 +5,29 @@ Questo repository contiene i file SQL e la documentazione a supporto del Project
 
 📂 Contenuto del repository
 
-schema.sql → definizione del database (tabelle, chiavi primarie, chiavi esterne, vincoli di integrità).
+- schema.sql → definizione del database (tabelle, chiavi primarie, chiavi esterne, vincoli di integrità).
 
-data.sql → inserimento di dati di esempio per popolare il database.
+- data.sql → inserimento di dati di esempio per popolare il database.
 
-queries.sql → query SQL rappresentative delle operazioni tipiche:
+- queries.sql → query SQL rappresentative delle operazioni tipiche:
 
-ricerca biglietti disponibili
+    ricerca biglietti disponibili
 
-storico prenotazioni di un cliente
+    storico prenotazioni di un cliente
+    
+    verifica validità di un biglietto
 
-verifica validità di un biglietto
-
-elenco passeggeri per tratta
-
-analisi vendite per tratta
-
-totale incassi per periodo
-
-tratte più prenotate
-
-ultime prenotazioni di un cliente
-
-biglietti emessi in un determinato giorno
-
-mezzi con più passeggeri
+    elenco passeggeri per tratta
+    
+    analisi vendite per tratta
+    
+    totale incassi per periodo
+    
+    tratte più prenotate
+    
+    ultime prenotazioni di un cliente
+    
+    biglietti emessi in un determinato giorno
+    
+    mezzi con più passeggeri
+- ER.png → diagramma entità–relazioni

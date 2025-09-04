@@ -20,3 +20,13 @@ verifica validità di un biglietto
 elenco passeggeri per tratta
 
 analisi vendite per tratta
+
+totale incassi per periodo
+
+tratte più prenotate
+
+ultime prenotazioni di un cliente
+
+biglietti emessi in un determinato giorno
+
+mezzi con più passeggeri
